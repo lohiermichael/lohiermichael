@@ -6,7 +6,7 @@
 #### 🆕 Available for Freelance Projects!
 I'm currently accepting new clients for Python development, automation, and
 full-stack projects. Check out my <a href="https://lohiermichael.github.io/" 
-target="_blank">portfolio</a> or [contact me](#contact) to discuss your project needs!
+target="_blank">portfolio</a> or [contact me](#-lets-connect) to discuss your project needs!
 
 ### 🔧 Technical Skills
 ![Python](https://img.shields.io/badge/Python-3.6+-blue?style=flat&logo=python&logoColor=white)
