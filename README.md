@@ -42,15 +42,15 @@ target="_blank">portfolio</a> or [contact me](#-lets-connect) to discuss your pr
   relationships
 - **Tech**: Python, Telegram API, Langchain, OpenAI, Docker, AWS EC2
 - Features intelligent conversation prompts and AI-enhanced responses
-- <a href="https://github.com/lohiermichael/telegram-relationship-bot" target="_blank">💻 Code</a>
+- 💻 <a href="https://github.com/lohiermichael/telegram-relationship-bot" target="_blank">Code</a>
 
 #### Photography Portfolio Website
 - Built a custom responsive website for a professional photographer without CSS
   frameworks
 - **Tech**: Node.js, Express.js, Vanilla JavaScript, SCSS
 - Features custom animations, responsive design, and optimized image loading
-- <a href="https://github.com/lohiermichael/laurent-x-dubois" target="_blank">💻 Code</a> |
-  <a href="https://laurentxdubois.com" target="_blank">🌐 Site</a>
+- 💻 <a href="https://github.com/lohiermichael/laurent-x-dubois" target="_blank">Code</a> |
+  🌐 <a href="https://laurentxdubois.com" target="_blank">Site</a>
 
 ### 📫 Let's Connect!
 - 🌐 <a href="https://lohiermichael.github.io/" target="_blank">Portfolio</a>
