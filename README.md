@@ -4,13 +4,11 @@
 </div>
 
 #### 🆕 Available for Freelance Projects!
-
 I'm currently accepting new clients for Python development, automation, and
-full-stack projects. Check out my [portfolio](https://lohiermichael.github.io/)
-or [contact me](#contact) to discuss your project needs!
+full-stack projects. Check out my <a href="https://lohiermichael.github.io/" 
+target="_blank">portfolio</a> or [contact me](#contact) to discuss your project needs!
 
 ### 🔧 Technical Skills
-
 ![Python](https://img.shields.io/badge/Python-3.6+-blue?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -32,15 +30,11 @@ or [contact me](#contact) to discuss your project needs!
 - 🇬🇧 English (Full Professional Proficiency)
 
 ### 🚀 What I Do
-
 - 🤖 Develop automation solutions and AI-powered applications
 - 🔍 Build scalable backend systems and RESTful APIs
 - 📊 Create data processing and monitoring solutions
-
-Also,
 - 🌐 Design responsive web applications
 
-
 ### 💼 Featured Projects
 
 #### Relationship Enhancement Bot
@@ -48,50 +42,20 @@ Also,
   relationships
 - **Tech**: Python, Telegram API, Langchain, OpenAI, Docker, AWS EC2
 - Features intelligent conversation prompts and AI-enhanced responses
-- **[Code][1]**
-
-[1]: https://github.com/lohiermichael/telegram-relationship-bot
-
-
-#### Photography Portfolio Website
-
-- Built a custom responsive website for a professional photographer without CSS
-- **Tech**: Node.js, Express.js, Vanilla JavaScript, SCSS
-- Features custom animations, responsive design, and optimized image loading
-for portfolio showcase.
-- **[Code][1]** | **[Demo][2]**
-
-[1]: https://github.com/laurent_x_dubois/telegram-relationship-bot
-[2]: https://laurentxdubois.com/
-
-
-
-### <a name="contact">📫 Let's Connect!</a>
-
-- 🌐 [Portfolio](https://lohiermichael.github.io/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lohiermichael/)
-- 📧 [Email](mailto:lohiermichael@gmail.com)
-
-### 💼 Featured Projects
-
-#### Relationship Enhancement Bot
-- Built a Telegram bot for fostering meaningful conversations in long-distance
-  relationships
-- **Tech**: Python, Telegram API, Langchain, OpenAI, Docker, AWS EC2
-- Features intelligent conversation prompts and AI-enhanced responses
-- [💻 Code][1]
-
-[1]: https://github.com/lohiermichael/telegram-relationship-bot
+- <a href="https://github.com/lohiermichael/telegram-relationship-bot" target="_blank">💻 Code</a>
 
 #### Photography Portfolio Website
 - Built a custom responsive website for a professional photographer without CSS
   frameworks
 - **Tech**: Node.js, Express.js, Vanilla JavaScript, SCSS
 - Features custom animations, responsive design, and optimized image loading
-- [💻 Code][2] | [🌐 Site][3]
+- <a href="https://github.com/lohiermichael/laurent-x-dubois" target="_blank">💻 Code</a> |
+  <a href="https://laurentxdubois.com" target="_blank">🌐 Site</a>
 
-[2]: https://github.com/lohiermichael/laurent-x-dubois
-[3]: https://laurentxdubois.com
+### 📫 Let's Connect!
+- 🌐 <a href="https://lohiermichael.github.io/" target="_blank">Portfolio</a>
+- 💼 <a href="https://www.linkedin.com/in/lohiermichael/" target="_blank">LinkedIn</a>
+- 📧 <a href="mailto:lohiermichael@gmail.com">Email</a>
 
 ---
 
