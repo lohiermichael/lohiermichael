@@ -50,7 +50,7 @@ target="_blank">portfolio</a> or [contact me](#-lets-connect) to discuss your pr
 - **Tech**: Node.js, Express.js, Vanilla JavaScript, SCSS
 - Features custom animations, responsive design, and optimized image loading
 - 💻 <a href="https://github.com/lohiermichael/laurent-x-dubois" target="_blank">Code</a> |
-  🌐 <a href="https://laurentxdubois.com" target="_blank">Site</a>
+  🌐 <a href="https://portfolio.laurentxdubois.com" target="_blank">Site</a>
 
 ### 📫 Let's Connect!
 - 🌐 <a href="https://lohiermichael.github.io/" target="_blank">Portfolio</a>
